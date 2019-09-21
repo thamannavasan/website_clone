@@ -2,7 +2,7 @@
 title: "Colorado State Budget Basics, 2018"
 authors:
 - admin
-date: "2017-06-01T00:00:00Z"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
