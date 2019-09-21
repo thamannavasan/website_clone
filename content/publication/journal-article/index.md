@@ -16,7 +16,7 @@ publishDate: "2016-04-01T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Colorado Fiscal Institute*"
 publication_short: ""
 
 abstract: Analyzes the economic and fiscal impacts of a low-income fare on the transit agency and state revenue.
