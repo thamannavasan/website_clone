@@ -1,25 +1,27 @@
+
+
 ---
-title: "What can the Pacific Northwest Oyster Aquaculture Industry do about Ocean Acidification?"
+title: "Ticket to Thrive: A Solution for Affordable Transit in the Denver Region"
 authors:
+- Chris Stiffler
 - admin
-- David M. Kling
-date: "2019-04-01T00:00:00Z"
+date: "2016-04-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-04-01T00:00:00Z"
+publishDate: "2016-04-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Agriculture Climate Network*"
+publication: "*Colorado Fiscal Institute*"
 publication_short: ""
 
-abstract: Blog post about ocean acidification and aquaculture in the Pacific Northwest.
+abstract: Analyzes the economic and fiscal impacts of a low-income fare on the transit agency and state revenue.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -31,8 +33,8 @@ featured: false
 
 # links:
 # - name: ""
-   # url: "https://www.agclimate.net/2019/04/"
-url_pdf: ''
+#   url: ""
+url_pdf: https://www.coloradofiscal.org/wp-content/uploads/2016/04/Ticket-to-Thrive-FINAL.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -62,13 +64,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
