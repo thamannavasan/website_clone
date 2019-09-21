@@ -1,25 +1,25 @@
 ---
-title: "Ticket to Thrive: A Solution for Affordable Transit in the Denver Region"
+title: "What can the Pacific Northwest Oyster Aquaculture Industry do about Ocean Acidification?"
 authors:
-- Chris Stiffler
 - admin
-date: "2016-04-01T00:00:00Z"
+- David M. Kling
+date: "2019-04-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2016-04-01T00:00:00Z"
+publishDate: "2019-04-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["4"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Colorado Fiscal Institute*"
+publication: "*Agriculture Climate Network*"
 publication_short: ""
 
-abstract: Analyzes the economic and fiscal impacts of a low-income fare on the transit agency and state revenue.
+abstract: Blog post about ocean acidification and aquaculture in the Pacific Northwest.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -31,8 +31,8 @@ featured: false
 
 # links:
 # - name: ""
-#   url: ""
-url_pdf: https://www.coloradofiscal.org/wp-content/uploads/2016/04/Ticket-to-Thrive-FINAL.pdf
+   url: "https://www.agclimate.net/2019/04/"
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
