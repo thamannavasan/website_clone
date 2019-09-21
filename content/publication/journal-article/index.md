@@ -1,5 +1,3 @@
-
-
 ---
 title: "Ticket to Thrive: A Solution for Affordable Transit in the Denver Region"
 authors:
