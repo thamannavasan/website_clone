@@ -1,5 +1,5 @@
 ---
-title: "What can the Pacific Northwest Oyster Aquaculture Industry do about Ocean Acidification?"
+title: "Ticket to Thrive: A Solution for Affordable Transit in the Denver Region?"
 authors:
 - admin
 - David M. Kling
@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
    # url: "https://www.agclimate.net/2019/04/"
-url_pdf: ''
+url_pdf: https://www.agclimate.net/2019/04/
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -62,13 +62,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
