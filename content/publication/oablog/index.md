@@ -1,5 +1,5 @@
 ---
-title: "Ticket to Thrive: A Solution for Affordable Transit in the Denver Region?"
+title: "What can the Pacific Northwest Oyster Aquaculture Industry do about Ocean Acidification?"
 authors:
 - admin
 - David M. Kling
