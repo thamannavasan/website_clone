@@ -2,6 +2,9 @@
 title: "Urban Tax Cuts, Rural Health Cuts"
 authors:
 - admin
+- Samantha Curran
+- Kathy White
+- Chris Stiffler
 date: "2017-06-22T00:00:00Z"
 doi: ""
 
