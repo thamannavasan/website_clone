@@ -7,6 +7,7 @@ authors:
 date: "2019-02-19T00:00:00Z"
 doi: ""
 
+
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-02-19T00:00:00Z"
 
@@ -17,16 +18,18 @@ publishDate: "2019-02-19T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Drug Policy Alliance*"
-publication_short: "Report marshals the best available data from Denver and from existing facilities in Canada and Europe to analyze the cost effectiveness of a prospective supervised use site in Denver. "
+publication: "*Drug Policy Aliance*"
+publication_short: ""
 
-abstract: 
+abstract: Report marshals the best available data from Denver and from existing facilities in Canada and Europe to analyze the cost effectiveness of a prospective supervised use site in Denver.
+
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - harm reduction
-- drugs
+- drug
+- cost and benefit
 - report
 featured: false
 
@@ -62,3 +65,14 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
+---
+
+{{% alert note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /alert %}}
+
+{{% alert note %}}
+Click the *Slides* button above to demo Academic's Markdown slides feature.
+{{% /alert %}}
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
