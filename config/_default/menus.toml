@@ -12,11 +12,6 @@
   name = "Publications and Research"
   url = "#publications"
   weight = 20
-  
-[[main]]
-  name = "Fellowships and Scholarships"
-  url = "#experience"
-  weight = 30
 
 
   
