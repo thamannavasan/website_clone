@@ -1,3 +1,4 @@
+---
 title: "Medicaid cuts in Republican health care bill could cost Colorado $15 billion over 10 years, analysis finds"
 authors:
 - admin
